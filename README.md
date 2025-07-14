@@ -26,8 +26,8 @@
 
 ## 사용 기술
 
-* **Jupyter Notebook**: 머신러닝 모델 개발 및 설명, 시각화를 위한 주요 개발 환경
+* **Google Colab**: 머신러닝 모델 개발 및 설명, 시각화를 위한 주요 개발 환경
 * **Python**: 모든 머신러닝 알고리즘 및 애플리케이션 개발에 사용된 핵심 프로그래밍 언어
-* **주요 라이브러리 (예상)**: NumPy, Pandas, Scikit-learn, Matplotlib 등 (Jupyter Notebooks 내에서 확인 가능)
+* **주요 라이브러리 **: NumPy, Pandas, Scikit-learn, Matplotlib 
 
 ---
